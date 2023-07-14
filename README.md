@@ -1,5 +1,5 @@
 # UTM Helper
-
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![pub package](https://img.shields.io/pub/v/utm_helper.svg)](https://pub.dev/packages/utm_helper)
 
 Package for parsing and generating UTM parameters.
