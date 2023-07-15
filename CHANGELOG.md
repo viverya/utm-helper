@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Reduce SDK requirement.
+
 ## 0.0.2
 
 * Remove all platform specific code from the library.
