@@ -1,3 +1,4 @@
+/// Class contains UTM data
 class UtmData {
   final String? source;
   final String? medium;
@@ -15,6 +16,8 @@ class UtmData {
     this.id,
   });
 
+  /// Generate an UtmData object from [queryString]
+  /// Currently this may not return expected object if [queryString] is not decoded.
   factory UtmData.fromQueryString(String queryString) {
     Map<String, String> queryParams = Uri.splitQueryString(queryString);
     return UtmData(
