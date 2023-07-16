@@ -1,3 +1,7 @@
+## 0.0.5
+
+* Reduce required sdk version to 2.12.0.
+
 ## 0.0.4
 
 * Add dartdoc comment.

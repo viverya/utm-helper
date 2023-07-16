@@ -1,6 +1,6 @@
 name: utm_helper
 description: UTM helper is a package that helps you to get UTM parameters from URL.
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/viverya/utm-helper
 repository: https://github.com/viverya/utm-helper
 issue_tracker: https://github.com/viverya/utm-helper/issues
