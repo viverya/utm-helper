@@ -1,3 +1,7 @@
+## 0.0.4
+
+* Add dartdoc comment.
+
 ## 0.0.3
 
 * Reduce SDK requirement.
