@@ -30,8 +30,8 @@ void main() {
 
     /// Test with query string that has some null value
     test('should have some null value that query string does not have', () {
-      final utmData = UtmData.fromQueryString('utm_source=bangbu&utm_id=anya');
-      expect(utmData.source, 'bangbu');
+      final utmData = UtmData.fromQueryString('utm_source=viverya&utm_id=anya');
+      expect(utmData.source, 'viverya');
       expect(utmData.medium, null);
       expect(utmData.campaign, null);
       expect(utmData.term, null);

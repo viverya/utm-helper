@@ -6,7 +6,7 @@ int main() {
       'utm_source=viverya&utm_medium=cpc&utm_campaign=summer&utm_term=beach%20vacation&utm_content=ad1&utm_id=anyaquote');
 
   // Query string with some data
-  UtmData.fromQueryString('utm_source=bangbu&utm_medium=cpc');
+  UtmData.fromQueryString('utm_source=viverya&utm_medium=cpc');
 
   // Query string with no utm data or invalid one
   UtmData.fromQueryString('some-invalid-query-string');
